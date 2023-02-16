@@ -1,2 +1,2 @@
 # CPP-SR
-Some of the CPP programs are found here.
+Some of the CPP programs solved in SkillRack Platform are found here.
