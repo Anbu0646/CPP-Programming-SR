@@ -48,7 +48,7 @@ int rev(int n)
 
 int main(int argc, char** argv)
 {
-    int x, y, z, a, b;
+    int x, y;
     cin>>x>>y;
     cout<<rev(rev(x)+rev(y));
 }
